@@ -13,6 +13,7 @@ TODO: Write usage instructions here
 ## Code status
 
 * [![Build Status](https://travis-ci.org/nTraum/steam_granter.svg?branch=master)](https://travis-ci.org/nTraum/steam_granter)
+* [![Coverage Status](https://coveralls.io/repos/nTraum/steam_granter/badge.png?branch=master)](https://coveralls.io/r/nTraum/steam_granter?branch=master)
 * [![Dependency Status](https://gemnasium.com/nTraum/steam_granter.svg)](https://gemnasium.com/nTraum/steam_granter)
 * [![Code Climate](https://codeclimate.com/github/nTraum/steam_granter.png)](https://codeclimate.com/github/nTraum/steam_granter)
 
