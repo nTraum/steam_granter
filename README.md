@@ -10,6 +10,12 @@ TODO: Write a gem description
 
 TODO: Write usage instructions here
 
+## Code status
+
+* [![Build Status](https://travis-ci.org/nTraum/steam_granter.svg?branch=master)](https://travis-ci.org/nTraum/steam_granter)
+* [![Dependency Status](https://gemnasium.com/nTraum/steam_granter.svg)](https://gemnasium.com/nTraum/steam_granter)
+
+
 ## Contributing
 
 1. Fork it ( https://github.com/nTraum/steam_granter/fork )
