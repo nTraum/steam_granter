@@ -14,7 +14,7 @@ TODO: Write usage instructions here
 
 * [![Build Status](https://travis-ci.org/nTraum/steam_granter.svg?branch=master)](https://travis-ci.org/nTraum/steam_granter)
 * [![Dependency Status](https://gemnasium.com/nTraum/steam_granter.svg)](https://gemnasium.com/nTraum/steam_granter)
-
+* [![Code Climate](https://codeclimate.com/github/nTraum/steam_granter.png)](https://codeclimate.com/github/nTraum/steam_granter)
 
 ## Contributing
 
