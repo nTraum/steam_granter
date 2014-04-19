@@ -1,5 +1,2 @@
-require "steam_granter/version"
-
-module SteamGranter
-  # Your code goes here...
-end
+require 'steam_granter/version'
+require 'steam_granter/steam_api'
