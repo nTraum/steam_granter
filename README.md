@@ -10,6 +10,8 @@ TODO: Write a gem description
 
 TODO: Write usage instructions here
 
+The full documentation is available on [rdoc.info](http://rdoc.info/github/nTraum/steam_granter).
+
 ## Code status
 
 * [![Build Status](https://travis-ci.org/nTraum/steam_granter.svg?branch=master)](https://travis-ci.org/nTraum/steam_granter)
